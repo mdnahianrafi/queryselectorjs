@@ -1,0 +1,31 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.background
+{
+    padding: 300px 0;
+    background-image: url(../images/Wall\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.wrapper
+{
+    margin: auto auto;
+    padding: 81px 66px;
+background: #ffffffbd;
+    width: 500px ;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 6px -5px 114px -4px rgba(0,0,0,0.75);
+
+}
+
+.m_top
+{
+    margin-top: 1px;
+}
